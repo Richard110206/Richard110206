@@ -5,14 +5,18 @@
 ### Programming Languages
 - c++
 - Python
+- Html
 - Matlab
 - Javascript (still learning)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard110206&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools
 - Git
 - LaTex
 - Vim
 - Markdown
+  
 
 ### Currently Learning
 - Full-Stack Development
@@ -28,3 +32,6 @@
 
 ### My Blog in CSDN
 [不在了情绪的CSDN博客账号](https://blog.csdn.net/2401_86849688?type=blog)
+
+
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard110206&show_icons=true&theme=radical)
