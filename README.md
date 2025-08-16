@@ -15,6 +15,7 @@
 - LaTex
 - Vim
 - Markdown
+- Bash
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Python"/>
