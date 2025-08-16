@@ -14,7 +14,6 @@
 - Vim
 - Markdown
 
-
 ### Currently Learning
 - Full-Stack Development
 - Python for Data Analysis and Visualization
