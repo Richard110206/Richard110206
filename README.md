@@ -5,7 +5,7 @@
 ### Programming Languages
 - c++
 - Python
-- Html
+- HTML
 - Matlab
 - Javascript (still learning)
 
