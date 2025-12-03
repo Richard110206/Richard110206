@@ -62,10 +62,10 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 ## 📚 Current Learning Journey
 
 🔭 **Currently Exploring:**
-- 🌐 **Full-Stack Development** - Building modern web applications
-- 📊 **Advanced Data Analysis** - Mastering pandas, NumPy, and visualization
-- 🧮 **Probability & Statistics** - Deepening mathematical foundations
-- 🤖 **Computer Vision Projects** - Real-world AI applications
+- 🌐 **Full-Stack Development - Building modern web applications**
+- 📊 **Advanced Data Analysis - Mastering pandas, NumPy, and visualization**
+- 🧮 **Probability & Statistics - Deepening mathematical foundations**
+- 🤖 **Computer Vision Projects - Real-world AI applications**
 
 ## 📊 GitHub Analytics
 
@@ -109,10 +109,6 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RiYzR0ZnV1Z2p0a3ZzZmN5ZmFmbzRzZG1rbHlzc2Q3azk4ZGxnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mW0fg6Re8MA5/giphy.gif" alt="Coding GIF" width="300" style="border-radius: 10px;">
-</div>
 
 <div align="center">
   <sub>⭐ Star this repository if you find it helpful! ⭐</sub>
