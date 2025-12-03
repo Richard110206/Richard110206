@@ -1,52 +1,136 @@
-## Hello,I am Li qinxuan👏👏👏
+# Hi there! 👋 I'm Li Qinxuan
 
- I am **Li Qinxuan (李沁轩)**, a dedicated Computer Science and Technology scholar at **China University of Mining and Technology (中国矿业大学)**. My academic pursuits encompass diverse domains of computing, with specialized expertise and fervent enthusiasm for **computer vision** and **algorithmic design**.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Richard110206/Richard110206/main/header.png" alt="Header Image" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+</div>
 
-## Programming Languages
-- c++
-- Python
-- HTML
-- Matlab
-- Javascript (still learning)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Richard110206.Richard110206" alt="Visitor Badge" style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/github/followers/Richard110206?style=social" alt="Followers Badge" style="margin-bottom: 10px;">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richard110206&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## Tools
-- Git
-- LaTex
-- Vim
-- Markdown
-- Bash
+## 🎓 About Me
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;width:auto;max-width:40px;" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;width:auto;max-width:40px;" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="height:40px;width:auto;max-width:40px;" alt="LaTeX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px;width:auto;max-width:40px;" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:40px;width:auto;max-width:40px;" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Pandas"/>
+I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology student at **China University of Mining and Technology (中国矿业大学)** 🏫.
 
-## Currently Learning
-- Full-Stack Development
-- Python for Data Analysis and Visualization
-- Probability and Statistics
+🎯 **My Focus Areas:**
+- 🤖 **Computer Vision** & Machine Learning
+- 🔢 **Algorithm Design** & Competitive Programming
+- 💻 **Full-Stack Development**
+- 📊 **Data Analysis & Visualization**
 
+🌱 **Currently Exploring:** Advanced AI applications and their real-world implementations.
 
-## Contact With Me
+## 💻 Tech Stack & Skills
 
- + lqx3222482537@qq.com
- + richardli.11.02.06@gmail.com
- + 08241120@cumt.edu.cn
+### 🚀 Programming Languages
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
-## My Blog in CSDN
-[不在了情绪的CSDN博客账号](https://blog.csdn.net/2401_86849688?type=blog)
+  **Expert:**
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" style="height: 30px; width: auto;">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Richard110206&theme=radical)](https://git.io/streak-stats)
+  **Proficient:**
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="height: 30px; width: auto;">
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard110206&show_icons=true&theme=radical)
+  **Learning:**
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" style="height: 30px; width: auto;">
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Richard110206&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🛠️ Development Tools & Frameworks
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
+  **Version Control:**
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 30px; width: auto;">
+
+  **Development Environment:**
+  <img src="https://skillicons.dev/icons?i=vim" alt="Vim" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="height: 30px; width: auto;">
+
+  **AI/ML & Data Science:**
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="height: 30px; width: auto;">
+
+  **Web Technologies:**
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 30px; width: auto;">
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" style="height: 30px; width: auto;">
+</div>
+
+### 📊 Language Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard110206&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B" alt="Top Languages" width="400">
+</div>
+
+## 📚 Current Learning Journey
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMmI2Y2JiYzBmNjE4NzNhN2Y1ZDRhZmIwMjJmNmE0MzMyNmM1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Learning GIF" width="200" style="border-radius: 10px;">
+</div>
+
+🔭 **Currently Exploring:**
+- 🌐 **Full-Stack Development** - Building modern web applications
+- 📊 **Advanced Data Analysis** - Mastering pandas, NumPy, and visualization
+- 🧮 **Probability & Statistics** - Deepening mathematical foundations
+- 🤖 **Computer Vision Projects** - Real-world AI applications
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Richard110206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard110206&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="45%">
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard110206&theme=nightowl&bg_color=0D1117&line=FF6B6B&point=FFFFFF&color=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" style="border-radius: 10px;">
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  📧 **Email:**
+  - 🏫 Academic: `08241120@cumt.edu.cn`
+  - 🌐 Personal: `richardli.11.02.06@gmail.com`
+  - 💬 QQ: `3222482537@qq.com`
+
+  📝 **Blog & Social:**
+  - <a href="https://blog.csdn.net/2401_86849688?type=blog" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=CSDN&logoColor=white" alt="CSDN Blog">
+  </a>
+
+  🔗 **Let's Connect:**
+  <p>
+    <a href="mailto:richardli.11.02.06@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/Richard110206" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+</div>
+
+## 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" style="border-radius: 10px;">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RiYzR0ZnV1Z2p0a3ZzZmN5ZmFmbzRzZG1rbHlzc2Q3azk4ZGxnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mW0fg6Re8MA5/giphy.gif" alt="Coding GIF" width="300" style="border-radius: 10px;">
+</div>
+
+<div align="center">
+  <sub>⭐ Star this repository if you find it helpful! ⭐</sub>
+</div>
