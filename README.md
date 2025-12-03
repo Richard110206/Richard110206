@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Li Qinxuan
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Well!Welcome!;Here-is-Li's-channel!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Richard110206.Richard110206" alt="Visitor Badge" style="margin-bottom: 10px;">
