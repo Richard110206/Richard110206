@@ -73,7 +73,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
   <img src="https://github-readme-stats-ebon-delta-95.vercel.app/api?username=Richard110206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard110206&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="45%">
+  <img src="https://streak-stats.demolab.com/?user=Richard110206&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="45%">
 
 </div>
 
