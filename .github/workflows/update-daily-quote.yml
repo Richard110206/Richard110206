@@ -99,7 +99,7 @@ jobs:
 
           // 构建新的quote内容 using external service
           const encodedQuote = encodeURIComponent(quote);
-          const newQuote = '## 💬 Quote of the Day\\n\\n<div align=\"center\">\\n\\n  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=' + encodedQuote + '&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)\\n\\n</div>';
+          const newQuote = '## 💬 Quote of the Day\\n\\n<div align=\"center\">\\n\\n  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=' + encodedQuote + '&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)\\n\\n</div>';
 
           // 替换旧的quote内容
           const startMarker = readme.indexOf('## 💬 Quote of the Day');
