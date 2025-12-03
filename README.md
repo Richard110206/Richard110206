@@ -96,7 +96,12 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 ## 💬 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" style="border-radius: 10px;">
+  <p style="font-size: 18px; font-style: italic; color: #FF6B6B; margin-bottom: 10px;">
+    "代码是诗歌，逻辑是韵律"
+  </p>
+  <p style="font-size: 14px; color: #888; margin-top: 5px;">
+    — 李沁轩
+  </p>
 </div>
 
 ---
