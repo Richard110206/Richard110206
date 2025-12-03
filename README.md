@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Li Qinxuan
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Richard110206/Richard110206/main/header.png" alt="Header Image" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Richard110206.Richard110206" alt="Visitor Badge" style="margin-bottom: 10px;">
@@ -14,8 +11,8 @@
 I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology student at **China University of Mining and Technology (中国矿业大学)** 🏫.
 
 🎯 **My Focus Areas:**
-- 🤖 **Computer Vision** & Machine Learning
-- 🔢 **Algorithm Design** & Competitive Programming
+- 🤖 **Computer Vision & Machine Learning**
+- 🔢 **Algorithm Design** 
 - 💻 **Full-Stack Development**
 - 📊 **Data Analysis & Visualization**
 
@@ -57,22 +54,12 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="height: 30px; width: auto;">
   <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" style="height: 30px; width: auto;">
 
-  **Web Technologies:**
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="height: 30px; width: auto;">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" style="height: 30px; width: auto;">
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" style="height: 30px; width: auto;">
-</div>
-
 ### 📊 Language Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard110206&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B" alt="Top Languages" width="400">
 </div>
 
 ## 📚 Current Learning Journey
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMmI2Y2JiYzBmNjE4NzNhN2Y1ZDRhZmIwMjJmNmE0MzMyNmM1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Learning GIF" width="200" style="border-radius: 10px;">
-</div>
 
 🔭 **Currently Exploring:**
 - 🌐 **Full-Stack Development** - Building modern web applications
@@ -95,9 +82,6 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 </div>
 
 ## 🌐 Connect With Me
-
-<div align="center">
-
   📧 **Email:**
   - 🏫 Academic: `08241120@cumt.edu.cn`
   - 🌐 Personal: `richardli.11.02.06@gmail.com`
@@ -117,7 +101,6 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
-</div>
 
 ## 💬 Quote of the Day
 
