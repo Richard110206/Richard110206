@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Li Qinxuan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Well!Welcome!;Here-is-Liqinxuan's-channel!)](https://git.io/typing-svg)
@@ -10,7 +9,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 🎯 **My Focus Areas:**
 - 🤖 **Computer Vision & Machine Learning**
-- 🔢 **Algorithm Design** 
+- 🔢 **Algorithm Design**
 - 💻 **Full-Stack Development**
 - 📊 **Data Analysis & Visualization**
 
@@ -97,12 +96,8 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=One%20LeetCode%20Hard%20a%20day%20keeps%20the%20doctor%20away.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=One%20LeetCode%20Hard%20a%20day%20keeps%20the%20doctor%20away.&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
-
-<div align="center">
-  <sub>⭐ Star this repository if you find it helpful! ⭐</sub>
-</div>
