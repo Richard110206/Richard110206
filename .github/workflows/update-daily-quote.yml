@@ -97,8 +97,9 @@ jobs:
           const quoteStart = '## 💬 Quote of the Day\\n\\n<div align=\"center\">\\n  ';
           const quoteEnd = '\\n</div>';
 
-          // 构建新的quote内容 without author
-          const newQuote = '## 💬 Quote of the Day\\n\\n<div align=\"center\">\\n  <div style=\"background: linear-gradient(135deg, #1e3c72, #2a5298); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.3); position: relative; overflow: hidden;\">\\n    <div style=\"position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent); animation: shimmer 3s infinite;\"></div>\\n    <p style=\"font-size: 22px; font-style: italic; color: #FFFFFF; margin-bottom: 15px; position: relative; z-index: 1; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);\">\\n      💭 \"' + quote + '\"\\n    </p>\\n  </div>\\n\\n  <style>\\n    @keyframes shimmer {\\n      0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }\\n      100% { transform: translateX(100%) translateY(100%) rotate(45deg); }\\n    }\\n  </style>\\n</div>';
+          // 构建新的quote内容 using external service
+          const encodedQuote = encodeURIComponent(quote);
+          const newQuote = '## 💬 Quote of the Day\\n\\n<div align=\"center\">\\n\\n  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=' + encodedQuote + '&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)\\n\\n</div>';
 
           // 替换旧的quote内容
           const startMarker = readme.indexOf('## 💬 Quote of the Day');

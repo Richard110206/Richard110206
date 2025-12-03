@@ -96,19 +96,9 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 ## 💬 Quote of the Day
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #1e3c72, #2a5298); border-radius: 15px; padding: 30px; margin: 20px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent); animation: shimmer 3s infinite;"></div>
-    <p style="font-size: 22px; font-style: italic; color: #FFFFFF; margin-bottom: 15px; position: relative; z-index: 1; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-      💭 "One LeetCode Hard a day keeps the doctor away."
-    </p>
-  </div>
 
-  <style>
-    @keyframes shimmer {
-      0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-      100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-    }
-  </style>
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=One%20LeetCode%20Hard%20a%20day%20keeps%20the%20doctor%20away.&theme=radical&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ---
