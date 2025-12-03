@@ -69,16 +69,28 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 ## 📊 GitHub Analytics
 
+### 🎯 3D Profile Overview
+<div align="center">
+  <img src="https://github-readme-3d-stats.vercel.app/api?username=Richard110206&theme=radical&hide_border=true&background=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&include_all_commits=true&count_private=true" alt="3D GitHub Stats" style="width: 100%; max-width: 800px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+</div>
+
+### 📈 Detailed Statistics
 <div align="center">
 
-  <img src="https://github-readme-stats-ebon-delta-95.vercel.app/api?username=Richard110206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-stats-ebon-delta-95.vercel.app/api?username=Richard110206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" style="border-radius: 10px;">
 
-  <img src="https://streak-stats.demolab.com/?user=Richard110206&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="45%">
+  <img src="https://streak-stats.demolab.com/?user=Richard110206&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" width="48%" style="border-radius: 10px;">
 
 </div>
 
+### 🔥 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard110206&theme=nightowl&bg_color=0D1117&line=FF6B6B&point=FFFFFF&color=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" style="border-radius: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard110206&theme=nightowl&bg_color=0D1117&line=FF6B6B&point=FFFFFF&color=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" style="border-radius: 10px; margin-top: 20px;">
+</div>
+
+### 🏆 Achievement Badges
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Richard110206&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width: 100%; max-width: 800px; border-radius: 10px; margin-top: 20px;">
 </div>
 
 ## 🌐 Connect With Me
