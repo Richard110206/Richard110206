@@ -96,7 +96,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=There%20are%20only%2010%20types%20of%20people%20in%20the%20world%3A%20those%20who%20understand%20binary%2C%20and%20those%20who%20don't.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%93%20first%20we%20build%20them%2C%20then%20we%20pray.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
