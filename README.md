@@ -96,7 +96,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%93%20first%20we%20build%20them%2C%20then%20we%20pray.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=The%20only%20thing%20standing%20between%20you%20and%20your%20goal%20is%20the%20story%20you%20keep%20telling%20yourself.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
