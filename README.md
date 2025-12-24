@@ -29,11 +29,6 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="height: 30px; width: auto;">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="height: 30px; width: auto;">
 
-  **Learning:**
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="height: 30px; width: auto;">
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" style="height: 30px; width: auto;">
-</div>
-
 ### 🛠️ Development Tools & Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
