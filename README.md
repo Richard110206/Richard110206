@@ -91,7 +91,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=One%20man's%20crappy%20software%20is%20another%20man's%20full-time%20job.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=There%20is%20no%20such%20thing%20as%20a%20good%20or%20bad%20algorithm%2C%20only%20a%20good%20or%20bad%20implementation.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
