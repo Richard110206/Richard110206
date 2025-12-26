@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Well!Welcome!;Here-is-Liqinxuan's-channel!)](https://git.io/typing-svg)
 
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35691)](https://codetime.dev)
 
 ## 🎓 About Me
 
