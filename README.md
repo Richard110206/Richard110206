@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=The%20best%20thing%20about%20a%20boolean%20is%20even%20if%20you%20are%20wrong%2C%20you%20are%20only%20off%20by%20a%20bit.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=99%20little%20bugs%20in%20the%20code.%2099%20little%20bugs%20in%20the%20code.%20Take%20one%20down%2C%20patch%20it%20around.%20127%20little%20bugs%20in%20the%20code.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
