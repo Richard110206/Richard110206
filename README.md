@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=I%20think%20there%20is%20a%20world%20market%20for%20maybe%20five%20computers.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=It%20works%20on%20my%20machine.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
