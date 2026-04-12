@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=The%20price%20of%20reliability%20is%20the%20pursuit%20of%20the%20utmost%20simplicity.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Sometimes%20it%20pays%20to%20stay%20in%20bed%20on%20Monday%2C%20rather%20than%20spending%20the%20rest%20of%20the%20week%20debugging%20Monday's%20code.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
