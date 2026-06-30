@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Nine%20people%20can't%20make%20a%20baby%20in%20a%20month.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=A%20good%20programmer%20is%20someone%20who%20always%20looks%20both%20ways%20before%20crossing%20a%20one-way%20street.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
