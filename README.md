@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=There%20is%20no%20such%20thing%20as%20a%20good%20or%20bad%20algorithm%2C%20only%20a%20good%20or%20bad%20implementation.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=The%20best%20thing%20about%20a%20boolean%20is%20even%20if%20you%20are%20wrong%2C%20you%20are%20only%20off%20by%20a%20bit.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
