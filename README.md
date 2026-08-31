@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Software%20is%20like%20entropy%3A%20it%20is%20constantly%20increasing%2C%20and%20nothing%20reduces%20it%20except%20constant%20effort.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=If%20you%20can't%20explain%20it%20simply%2C%20you%20don't%20understand%20it%20well%20enough.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
