@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Don't%20worry%20if%20it%20doesn't%20work%20right.%20If%20everything%20did%2C%20you'd%20be%20out%20of%20a%20job.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Software%20is%20like%20entropy%3A%20it%20is%20constantly%20increasing%2C%20and%20nothing%20reduces%20it%20except%20constant%20effort.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
