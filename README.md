@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Programmer%3A%20A%20machine%20that%20turns%20coffee%20into%20code.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=There%20are%20only%2010%20types%20of%20people%20in%20the%20world%3A%20those%20who%20understand%20binary%2C%20and%20those%20who%20don't.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
