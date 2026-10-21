@@ -92,7 +92,7 @@ I am **Li Qinxuan (李沁轩)**, a passionate Computer Science and Technology st
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=99%20little%20bugs%20in%20the%20code.%2099%20little%20bugs%20in%20the%20code.%20Take%20one%20down%2C%20patch%20it%20around.%20127%20little%20bugs%20in%20the%20code.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Don't%20worry%20if%20it%20doesn't%20work%20right.%20If%20everything%20did%2C%20you'd%20be%20out%20of%20a%20job.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
