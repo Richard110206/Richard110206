@@ -96,7 +96,7 @@ I am **Li Qinxuan (李沁轩)**, a third-year (junior) **Computer Science and Te
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-swart-three.vercel.app/?username=Richard110206&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy-swart-three.vercel.app/?username=Richard110206&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&title=-Stars,-Issues,-Reviews" width="95%" alt="Trophy" />
 </div>
 
 <div align="center">
