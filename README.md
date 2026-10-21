@@ -21,7 +21,7 @@
 
 ## 🎓 About Me
 
-I am **Li Qinxuan (李沁轩)**, a passionate **Computer Science and Technology** student at **China University of Mining and Technology (中国矿业大学)** 🏫
+I am **Li Qinxuan (李沁轩)**, a third-year (junior) **Computer Science and Technology** student at **China University of Mining and Technology** 🏫
 
 🎯 **My Focus Areas:**
 
@@ -50,59 +50,50 @@ I am **Li Qinxuan (李沁轩)**, a passionate **Computer Science and Technology*
 
 ## 💻 Tech Stack & Skills
 
-### 🚀 Programming Languages
+<div align="center">
 
-**💪 Expert:**
+### 🚀 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ / Python" />
-</p>
-
-**⚡ Proficient:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML / CSS / JavaScript" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Environment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode,linux" alt="Git / GitHub / Vim / VS Code / Linux" />
-</p>
-
-**✍️ Academic Writing:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019833?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 🤖 AI / ML & Agent Frameworks
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="TensorFlow / PyTorch / OpenCV" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p>
-  <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
-  <a href="https://www.langchain.com"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /></a>
-  <img src="https://img.shields.io/badge/DeepAgent-FF6B6B?style=for-the-badge" alt="DeepAgent" />
-</p>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![DeepAgent](https://img.shields.io/badge/DeepAgent-FF6B6B?style=for-the-badge&logoColor=white)
 
----
+### 🧠 AI Coding Tools
 
-## 📚 Current Learning Journey
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ZCode · GLM](https://img.shields.io/badge/ZCode%20%C2%B7%20GLM-2563EB?style=for-the-badge&logoColor=white)
 
-🔭 **Currently Exploring:**
-
-- 🤖 **Multi-Agent Systems — building my own agent framework with LangGraph & DeepAgent**
-- 🔗 **RAG — retrieval pipelines & knowledge-grounded LLM applications**
-- 📊 **Advanced Data Analysis — mastering pandas, NumPy, and visualization**
-- 🧮 **Probability & Statistics — deepening mathematical foundations**
-- 👁️ **Computer Vision Projects — real-world AI applications**
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
+</div>
 
 <div align="center">
   <img height="160" src="https://github-readme-stats-ebon-delta-95.vercel.app/api?username=Richard110206&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B" alt="GitHub Stats" />
@@ -111,11 +102,11 @@ I am **Li Qinxuan (李沁轩)**, a passionate **Computer Science and Technology*
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richard110206&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy-swart-three.vercel.app/?username=Richard110206&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%" alt="Trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Richard110206&theme=nightowl&bg_color=0D1117&line=FF6B6B&point=FFFFFF&color=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-two-henna.vercel.app/graph?username=Richard110206&theme=nightowl&bg_color=0D1117&line=FF6B6B&point=FFFFFF&color=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
