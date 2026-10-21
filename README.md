@@ -12,9 +12,6 @@
   <a href="https://codetime.dev">
     <img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35691" alt="CodeTime" />
   </a>
-  <a href="https://github.com/Richard110206">
-    <img src="https://komarev.com/ghpvc/?username=Richard110206&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
 </div>
 
 ---
@@ -69,21 +66,18 @@ I am **Li Qinxuan (李沁轩)**, a third-year (junior) **Computer Science and Te
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ZCode · GLM](https://img.shields.io/badge/ZCode%20%C2%B7%20GLM-2563EB?style=for-the-badge&logoColor=white)
+
 ### 🤖 AI / ML & Agent Frameworks
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![DeepAgent](https://img.shields.io/badge/DeepAgent-FF6B6B?style=for-the-badge&logoColor=white)
-
-### 🧠 AI Coding Tools
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ZCode · GLM](https://img.shields.io/badge/ZCode%20%C2%B7%20GLM-2563EB?style=for-the-badge&logoColor=white)
+![DeepAgent](https://img.shields.io/badge/DeepAgent-1C3C3C?style=for-the-badge&logoColor=white)
 
 </div>
 
