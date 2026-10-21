@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-3d-contrib/profile-coral-animate.svg",
+  "backgroundColor": "#0D1117",
+  "foregroundColor": "#FFFFFF",
+  "strongColor": "#FF6B6B",
+  "weakColor": "#30363D",
+  "radarColor": "#FF6B6B",
+  "growingAnimation": true,
+  "contribColors": [
+    "#161B22",
+    "#5A2A2C",
+    "#8F3B3E",
+    "#C74E52",
+    "#FF6B6B"
+  ]
+}

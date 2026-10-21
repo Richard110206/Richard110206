@@ -86,7 +86,7 @@ I am **Li Qinxuan (李沁轩)**, a third-year (junior) **Computer Science and Te
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contributions" />
+  <img src="./profile-3d-contrib/profile-coral-animate.svg" width="100%" alt="3D Contributions" />
 </div>
 
 <div align="center">
