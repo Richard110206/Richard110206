@@ -136,7 +136,7 @@ I am **Li Qinxuan (李沁轩)**, a third-year (junior) **Computer Science and Te
 
 <div align="center">
 
-  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=It%20works%20on%20my%20machine.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Quote Card](https://quotes-github-readme.vercel.app/api?quote=Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20it%20is%20the%20courage%20to%20continue%20that%20counts.&theme=radical&type=horizontal&width=800)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
